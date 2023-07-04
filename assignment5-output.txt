@@ -1,0 +1,16 @@
+Enter the name of the file with letters and probability: C:\Users\91700\Desktop\LettersProbability.txt
+Enter a line of text (uppercase letters only): THIS IS COOL
+10000011001100011 001100011 000000110100100000011
+Process finished with exit code 0
+---------------------------------------------------------------------------------------------
+
+Enter the name of the file with letters and probability: C:\Users\91700\Desktop\LettersProbability.txt
+Enter a line of text (uppercase letters only): THIS IS THE SECOND LAST ASSIGNMENT
+10000011001100011 001100011 1000001111 0001111000000110100010000010 00000110110001110 01100011000110011000000001000100000001011001010
+Process finished with exit code 0
+------------------------------------------------------------------------------------------------
+
+Enter the name of the file with letters and probability: C:\Users\91700\Desktop\LettersProbability.txt
+Enter a line of text (uppercase letters only): HELLO WORLD
+0000111100000110000011010 0000000011010000100000011000010
+Process finished with exit code 0
